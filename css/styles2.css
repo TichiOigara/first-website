@@ -1,0 +1,14 @@
+body {
+  background-color: #FBD0F2;
+  font-size:1.5em;
+  font-family:cursive;
+  text-align: center;
+}
+li {
+  margin:0 40%;
+}
+h1{
+  color:white;
+  background-color:black;
+  text-transform: uppercase;
+}
